@@ -1,7 +1,13 @@
 <div align="center">
 <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200"/>
-<h1 align="center">Hi 👋, I'm Axel Farina</h1>
+<h1 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F727F2&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Axel+Farina;Junior+Mobile+Developer;Always+learnig+new+things)](https://git.io/typing-svg)
+  
+  </h1>
 </div>
+
+
 <h3 align="left">I'm a passionate mobile programmer with a strong background in the field. I'm enthusiastic about learning and love new challenges. Programming isn't just a job for me, it's a way of life. I'm always exploring new technologies to develop efficient and effective mobile applications. I'm interested in taking on interesting projects and continuously improving my skills. I believe in learning and collaboration with other programmers on open-source projects.</h3> 
 
 <h2></h2>
