@@ -1,3 +1,4 @@
+[README.md](https://github.com/AxelFarina/AxelFarina/files/11053568/README.md)
 <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200"/>
 <h1 align="center">Hi 👋, I'm Axel Farina</h1>
 <h3 align="center">I'm a passionate mobile programmer, i'm also a developer: D: Driven programmer E: Enthusiastic about coding V: Versatile problem solver E: Eager to learn and improve L: Loves taking on new challenges O: Obsessed with clean code P: Persistent until the problem is solved E: Excited to collaborate with others R: Ready to take on any project</h3>
