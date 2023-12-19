@@ -8,7 +8,7 @@
 </div>
 
 
-<h3 align="left">I'm a passionate mobile programmer with a strong background in the field. I'm enthusiastic about learning and love new challenges. Programming isn't just a job for me, it's a way of life. I'm always exploring new technologies to develop efficient and effective mobile applications. I'm interested in taking on interesting projects and continuously improving my skills. I believe in learning and collaboration with other programmers on open-source projects.</h3> 
+<h3 align="left">I'm a passionate full-stack programmer with a strong background in the field. I'm enthusiastic about learning and love new challenges. Programming isn't just a job for me, it's a way of life. I'm always exploring new technologies to develop efficient and effective applications. I'm interested in taking on interesting projects and continuously improving my skills. I believe in learning and collaborating with other programmers on open-source projects.</h3> 
 
 <h2></h2>
 
