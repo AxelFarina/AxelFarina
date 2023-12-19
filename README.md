@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200"/>
 <h1 align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F727F2&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Axel+Farina;Junior+Mobile+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F727F2&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Axel+Farina;Software+Developer;Always+learning+new+things)](https://git.io/typing-svg)
   
   </h1>
 </div>
